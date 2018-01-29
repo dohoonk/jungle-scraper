@@ -1,7 +1,7 @@
 # jungle-scraper
 Simple Amazon scraper
 
--Features
+- Features
 
 * Given an Amazon product ASIN fetch.
   * Number of reviews
@@ -10,7 +10,7 @@ Simple Amazon scraper
 * Store the product info into the database.
 * Display the product on the front-end.
 
-* Instructions to start the project.
+- Instructions to start the project.
 
 * cd into jungle-scraper-api and start the server on -p 3001
 * cd into jungle-scraper and start the server on -p 3000
