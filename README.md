@@ -4,9 +4,9 @@ Simple Amazon scraper
 -Features
 
 1.Given an Amazon product ASIN fetch.
-  -Number of reviews
-  -Rating
-  -Product dimensions
+  a. Number of reviews
+  b. Rating
+  c. Product dimensions
 2. Store the product info into the database.
 3. Display the product on the front-end.
 
