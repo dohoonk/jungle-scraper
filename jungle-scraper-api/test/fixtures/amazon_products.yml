@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  asin: MyString
+  number_of_reviews: 1
+  average_rating: 1
+  dimensions: MyString
+
+two:
+  asin: MyString
+  number_of_reviews: 1
+  average_rating: 1
+  dimensions: MyString
