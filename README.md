@@ -3,7 +3,7 @@ Simple Amazon scraper
 
 -Features
 
-1.Given an Amazon product ASIN fetch.
+1. Given an Amazon product ASIN fetch.
   a. Number of reviews
   b. Rating
   c. Product dimensions
